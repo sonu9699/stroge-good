@@ -1,1 +1,1 @@
-# stroge-goods
+# stroge-good
